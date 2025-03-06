@@ -7,7 +7,6 @@ This project is a real-time sign language recognition system that detects hand g
 - Integration with **Sign Language MNIST Dataset**
 - Machine learning model for gesture classification
 - **Tkinter UI** for visual feedback and text display
-- **Voice AI** for reading out translated sentences
 
 ## Project Structure
 - `Dataset_create.py` - Generates dataset for training
@@ -36,12 +35,12 @@ This project is a real-time sign language recognition system that detects hand g
 1. Start the application.
 2. Show hand gestures corresponding to sign language letters.
 3. The detected letter will appear on the UI.
-4. Press the **'Speak'** button to hear the recognized sentence aloud.
 
 ## Future Enhancements
 - Improve recognition accuracy
 - Support more sign languages
 - Implement a more advanced UI
+- Implement a Voice AI
 
 ## Contributing
 Feel free to contribute by creating a pull request or submitting issues.
